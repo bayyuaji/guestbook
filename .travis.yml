@@ -9,7 +9,7 @@ os:
 env:
   global:
     - DOCKER_IMAGE_NAME="guestbook"
-    - K8S_DEPLOYMENT_NAME="guesbook"
+    - K8S_DEPLOYMENT_NAME="guestbook"
 
 cache:
   directories:
